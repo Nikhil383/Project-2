@@ -33,3 +33,18 @@ Wrist circumference
 Target:
 
 Body Fat Percentage
+
+### Regression Techniques
+The following regression techniques were used to predict body fat percentage:
+
+Linear Regression
+Ridge Regression
+Lasso Regression
+Elastic Net Regression
+Decision Tree Regression
+Random Forest Regression
+Support Vector Regression (SVR)
+Gradient Boosting Regression
+K-Nearest Neighbors Regression
+XGBoost Regression
+These models were chosen to provide a balance between simplicity, interpretability, and prediction power.
