@@ -48,3 +48,11 @@ Gradient Boosting Regression
 K-Nearest Neighbors Regression
 XGBoost Regression
 These models were chosen to provide a balance between simplicity, interpretability, and prediction power.
+
+### Results
+The models were evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²). Below is a summary of the performance for each regression technique:
+
+The best-performing model was found to be [Model Name], with the highest R² score and the lowest error rates, indicating strong predictive capability for this dataset.
+
+### Conclusion
+Through this comparative analysis, we found that [Model Name] offers the best performance for predicting body fat percentage. This model's accuracy, combined with the robustness of the dataset, makes it an effective choice for health and fitness applications. Future work can explore additional models or feature engineering techniques to improve performance further.
