@@ -8,9 +8,7 @@ Objective- In this project, comparative analysis is conducted to evaluate the pe
 - [Regression Techniques](#RegressionTechniques)
 - [Results](#Results)
 - [Conclusion](#Conclusion)
-- [Installation](#Installation) 
-- [Usage](#Usage) 
-- [License](#License) 
+
 
 
 ### ProjecOverview
